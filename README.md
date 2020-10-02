@@ -10,6 +10,8 @@ Creates a professional README.md that saves the programmer time in which they ca
 
 - [Usage](#usage)
 
+- [Video](#video)
+
 - [License](#license)
 
 - [Test](#test)

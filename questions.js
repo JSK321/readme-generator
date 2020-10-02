@@ -2,7 +2,7 @@
 const questions = [
     {
         type: "input",
-        message: "What is github username?",
+        message: "What is your github username?",
         name: "github",
     },
     {
@@ -27,7 +27,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Please explain how your application is used.",
+        message: "Please explain how to use your application.",
         name: "usage",
     },
     {

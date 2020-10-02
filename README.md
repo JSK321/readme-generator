@@ -24,7 +24,10 @@ Visual Studio Code must be installed on computer. Through Visual Studio Code, np
 
 ## Usage
 Git clone the repository into a folder on your computer and open it through Visual Studio Code. In Visual Studio Code, right click on index.js and "Open in Integrated Terminal", Import node module by typing npm init, wait for installation. Then install inquirer by typing npm install inquirer, wait for installation. Once both installation are finished type node index.js then answer following prompts!
-        
+
+## Video
+[![Walkthrough video](./Assets/readmegenerator.png)](https://drive.google.com/file/d/1Z4yQRB9tfZVOv8Raa6Km_XmTpNpjKQVN/view)
+
 ## License
 This project uses MIT
 

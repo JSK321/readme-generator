@@ -1,33 +1,44 @@
+#README Generator!
 
-        # README
+[![GPLv3 license](https://img.shields.io/badge/License-MIT-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-        ## Description
-            creates read me
+## Description
+Creates a professional README.md that saves the programmer time in which they can spend on coding.
         
-        ## Table of Contents
-        - [Installation](#installation)
-        - [Usage](#usage)
-        - [License](#license)
-        - [Test](#test)
-        - [Contributors](#contributors)
-        - [Questions](#questions)
+## Table of Contents
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+- [License](#license)
+
+- [Test](#test)
+
+- [Contributors](#contributors)
+
+- [Questions](#questions)
+
+    
+## Installation
+Visual Studio Code must be installed on computer. Through Visual Studio Code, npm install inquire must be installed to run the application.
+
+## Usage
+Git clone the repository into a folder on your computer and open it through Visual Studio Code. In Visual Studio Code, right click on index.js and "Open in Integrated Terminal", Import node module by typing npm init, wait for installation. Then install inquirer by typing npm install inquirer, wait for installation. Once both installation are finished type node index.js then answer following prompts!
         
-        ## Installation
-            npm install inquire
+## License
+This project uses MIT
 
-        ## Usage
-            generates readme easily
-        
-        ## License
-            MIT
+## Test
+None
 
-        ## Test
-            none
+## Contributors
+Jae Kim
 
-        ## Contributors
-            me
+## Questions
+View my other projects!
 
-        ## Questions
-            jsk321
-            jae Kim
-        
+https://github.com/JSK321
+
+Have any questions?
+
+Email me at: N/A
